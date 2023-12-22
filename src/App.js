@@ -1,5 +1,5 @@
 import React from 'react';
-import hawkerHunterImage from './Hunter01.jpg';
+import hawkerHunterImage from './public/Hunter01.jpg';
 
 const specifications = [
     { spec: 'Top Speed', value: 'Mach 0.94 (735 mph, 1,185 km/h at 36,000 ft)' },
